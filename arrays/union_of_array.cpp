@@ -2,13 +2,13 @@
 // program to calculate union of two sorted arrays
 // we wil use set here because set contains only distinct elements
 
-// { Driver Code Starts
+
 //Initial template for C++
 
 #include <bits/stdc++.h>
 using namespace std;
 
-// } Driver Code Ends
+
 //User function template in C++
 
 class Solution
@@ -35,7 +35,7 @@ public:
     }
 };
 
-// { Driver Code Starts.
+
 
 int main()
 {
@@ -60,4 +60,4 @@ int main()
     }
 
     return 0;
-} // } Driver Code Ends
+} 

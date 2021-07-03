@@ -1,10 +1,10 @@
-// { Driver Code Starts
+
 // C++ program to remove recurring digits from
 // a given number
 #include <bits/stdc++.h>
 using namespace std;
 
-// } Driver Code Ends
+
 
 class Solution
 {
@@ -35,7 +35,7 @@ public:
     }
 };
 
-// { Driver Code Starts.
+
 
 int main()
 {
@@ -66,4 +66,3 @@ int main()
         cout << endl;
     }
 }
-// } Driver Code Ends

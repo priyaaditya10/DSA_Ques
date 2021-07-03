@@ -1,10 +1,8 @@
-// { Driver Code Starts
-
 // move all the negative elementsto end of array and also maintain the sequence can use extra space
 #include <bits/stdc++.h>
 using namespace std;
 
-// } Driver Code Ends
+
 class Solution
 {
 public:
@@ -34,10 +32,9 @@ public:
     }
 };
 
-// { Driver Code Starts.
 int main()
 {
-    // your code goes here
+    
     int t;
     cin >> t;
     while (t--)
@@ -55,4 +52,3 @@ int main()
         cout << endl;
     }
 }
-// } Driver Code Ends

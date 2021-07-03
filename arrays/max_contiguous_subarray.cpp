@@ -1,9 +1,9 @@
 // Also known as Kadanes's algo
-// { Driver Code Starts
+
 #include <bits/stdc++.h>
 using namespace std;
 
-// } Driver Code Ends
+
 class Solution
 {
 public:
@@ -35,7 +35,6 @@ public:
     }
 };
 
-// { Driver Code Starts.
 
 int main()
 {
@@ -57,4 +56,3 @@ int main()
         cout << ob.maxSubarraySum(a, n) << endl;
     }
 }
-// } Driver Code Ends

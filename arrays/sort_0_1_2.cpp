@@ -1,12 +1,7 @@
 // program to sort an array of 0's 1's and 2's without using any sorting algo
-/
-{
-    Driver Code Starts
-    //Initial Template for C
 
 #include <stdio.h>
 
-        // } Driver Code Ends
         //User function Template for C
 
 // use the simple approach count 0's , 1's and 2's in different counter variable and set i=0 and 
@@ -52,7 +47,7 @@
         }
     }
 
-    // { Driver Code Starts.
+
 
     int main()
     {
@@ -78,4 +73,3 @@
         }
         return 0;
     }
-    // } Driver Code Ends
